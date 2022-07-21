@@ -1,2 +1,3 @@
 # Gerador-de-Senha
-Gerador de senha feito em python 
+
+Um programa que vai gerar uma senha aleatória com o tamanho que o usuário decidir.
